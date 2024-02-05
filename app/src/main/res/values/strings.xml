@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2BTempConv</string>
+
+    <string name="fahText">Fahrenheit: </string>
+    <string name="celText">Celsius: </string>
+    <string name="calButtonText">Convert</string>
+    <string name="clearButtonText">Clear</string>
+
+</resources>
